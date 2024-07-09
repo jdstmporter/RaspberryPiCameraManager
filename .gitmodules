@@ -6,4 +6,4 @@
 	url = git@github.com:jdstmporter/RPiCamera.git
 [submodule "PICameraInfoWeb"]
 	path = PICameraInfoWeb
-	url = https://github.com/jdstmporter/PiCameraInfo.git
+	url = https://github.com/jdstmporter/PICameraInfoWeb.git
