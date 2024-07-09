@@ -1,0 +1,9 @@
+[submodule "WebSettings"]
+	path = WebSettings
+	url = git@github.com:jdstmporter/PiCameraManagement.git
+[submodule "MediaMTX"]
+	path = MediaMTX
+	url = git@github.com:jdstmporter/RPiCamera.git
+[submodule "PICameraInfoWeb"]
+	path = PICameraInfoWeb
+	url = https://github.com/jdstmporter/PiCameraInfo.git
